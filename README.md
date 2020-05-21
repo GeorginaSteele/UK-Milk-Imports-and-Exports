@@ -1,1 +1,1 @@
-
+This project explores the UK milk and cream import and export market. It uses data taken from the UN Comtrade database, which was exported to a CSV, however, there are instructions in the notebook on how to import this data directly into the project. One of the reasons the data was downloaded to a CSV was to ensure that any future formatting changes made to the Comtrade database wouldn't affect this project. 
